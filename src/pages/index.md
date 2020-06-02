@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Yemeni American Resource Center
-image: /img/yarc_logo_english.png
+image: /img/perry-grone-lbLgFFlADrY-unsplash.jpg
 heading: Helping The Community Thrive
 subheading: Helping Foster a Brighter Future
 mainpitch:
